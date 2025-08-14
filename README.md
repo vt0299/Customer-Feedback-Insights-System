@@ -119,3 +119,12 @@ python -m streamlit run src/dashboard/app.py
 - Trend detection
 - Cohort analysis
 - Cost/latency budget alerts
+
+## Output
+
+[Alt images](images/1.png)
+[Alt images](images/2.png)
+[Alt images](images/3.png)
+[Alt images](images/4.png)
+[Alt images](images/5.png)
+[Alt images](images/6.png)
